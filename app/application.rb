@@ -9,7 +9,7 @@ class Application
       if num_1==4
         resp.write "You Win"
       else
-        resp.write "Testing"
+        resp.write "You Lose"
       end
 
       resp.finish
